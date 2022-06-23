@@ -6,5 +6,6 @@ int main(){
   newNum++;
   printf("newNum = %d\n",newNum);
   printf("switch to new branch dev\n");
+  printf("new function is finish\n");
   return 0;
 }
